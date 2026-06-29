@@ -1,7 +1,9 @@
 CLAUDE.md
-README.md
-
-
+# README.md
+3dperception
+nuScenes-panoptic-v1.0-mini
+nuscenes_lidarseg_panoptic_tutorial.ipynb
+nuScenes-panoptic-v1.0-mini.tar.gz
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
