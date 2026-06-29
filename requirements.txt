@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+mmengine>=0.10.0
+mmcv>=2.1.0
+mmdet>=3.2.0
+mmdet3d>=1.4.0
+nuscenes-devkit>=1.1.11
+numpy>=1.23.0
+open3d>=0.17.0
+matplotlib>=3.7.0
+opencv-python>=4.8.0
+pyyaml>=6.0
+tqdm>=4.65.0
